@@ -1,9 +1,9 @@
 {
-  "name": "client",
+  "name": "vue-cli-template",
   "version": "1.0.0",
-  "description": "drug combination data visulization client",
+  "description": "A fastly build vue environment template project",
   "author": "csuZipple <csu_zipple@qq.com>",
-  "private": true,
+  "private": false,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
     "start": "npm run dev",
